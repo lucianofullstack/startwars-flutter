@@ -2,12 +2,22 @@
 
 # Star Wars Flutter
 
-<img src="/screenshoots/screenshot01.jpeg">
+<p align="center">
+    <img src="/screenshoots/screenshot01.jpeg">
+</p>
 
-<img src="/screenshoots/screenshot02.jpeg">
+<p align="center">
+    <img src="/screenshoots/screenshot02.jpeg">
+</p>
 
-<img src="/screenshoots/screenshot03.jpeg">
+<p align="center">
+    <img src="/screenshoots/screenshot03.jpeg">
+</p>
 
-<img src="/screenshoots/screenshot04.jpeg">
+<p align="center">
+    <img src="/screenshoots/screenshot04.jpeg">
+</p>
 
-<img src="/screenshoots/screenshot05.jpeg">
+<p align="center">
+    <img src="/screenshoots/screenshot05.jpeg">
+</p>
