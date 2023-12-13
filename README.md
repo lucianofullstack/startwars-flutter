@@ -1,6 +1,6 @@
 <img src="/screenshoots/logo.png">
 
-# Star Wars Flutter
+<h1 align="center">Flutter</h1>
 
 <p align="center">
     <img src="/screenshoots/screenshot01.jpeg">
